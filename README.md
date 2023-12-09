@@ -7,6 +7,3 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devgaganin/session/)
 
-## Credit Repository
-
-*   [StringSessionBot](https://github.com/RioProjectX/GenerateString) - Rio 
